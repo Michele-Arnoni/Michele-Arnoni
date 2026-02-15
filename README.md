@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-  I'm a software developer
+  I'm a software engineer, I think...
 </p>
