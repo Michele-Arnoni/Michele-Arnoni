@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-  I'm a software engineer, I think...
+  welcome to my GitHub 
 </p>
